@@ -1,18 +1,14 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/RoleServiceImpl.java" timestamp="1566286553753" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service-api/src/main/java/com/vip/arplatform/codegen/idl/MerchandiseMaterialIDL.java" timestamp="1566289859829" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/vo/uploadAsycResp.java" timestamp="1498805303955">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
-      </file>
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merchBind/repository/BindInfoRepository.java" timestamp="1535079262107">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="52" />
       </file>
       <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/webapp/frontend/js/services/liveMerchandiseApi.js" timestamp="1500436220458">
         <mark key="[" line="8" column="0" />
@@ -31,12 +27,6 @@
         <mark key="]" line="42" column="41" />
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
-      </file>
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/codegen/service/MerchandiseBindServiceTest.java" timestamp="1500796342337">
-        <mark key="[" line="92" column="10" />
-        <mark key="]" line="81" column="10" />
-        <mark key="^" line="81" column="10" />
-        <mark key="." line="81" column="10" />
       </file>
       <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/vo/MemberOfZip.java" timestamp="1498816047771">
         <mark key="[" line="12" column="1" />
@@ -59,17 +49,6 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" timestamp="1566287084324">
-        <mark key="'" line="65" column="77" />
-      </file>
-      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/util/AesEncryptUtil.java" timestamp="1566287561708" />
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/LiveMerchandiseMapper.xml" timestamp="1500549333508">
-        <mark key="[" line="134" column="18" />
-        <mark key="]" line="134" column="18" />
-        <mark key="^" line="134" column="18" />
-        <mark key="." line="134" column="18" />
-      </file>
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/properties/development/application-development.properties" timestamp="1566281744587" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/codegen/repository/MerchandiseMaterialRepository.java" timestamp="1535079322902">
         <mark key="[" line="32" column="15" />
         <mark key="]" line="31" column="0" />
@@ -82,6 +61,75 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="47" column="32" />
       </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/BindInfoMapper.xml" timestamp="1513065300855">
+        <mark key="[" line="86" column="18" />
+        <mark key="]" line="86" column="18" />
+        <mark key="." line="86" column="18" />
+        <mark key="^" line="86" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/merchBind/service/MerchBindServiceTest.java" timestamp="1513071552671">
+        <mark key="[" line="81" column="8" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="21" />
+        <mark key="^" line="53" column="21" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merch3d/service/impl/ModelSyncServiceImpl.java" timestamp="1526974302491">
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="84" column="9" />
+        <mark key="^" line="84" column="9" />
+        <mark key="." line="84" column="9" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/controller/AuthController.java" timestamp="1566287098247" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/codegen/service/MerchandiseMaterialServiceTest.java" timestamp="1535088061140">
+        <mark key="[" line="192" column="18" />
+        <mark key="]" line="192" column="19" />
+        <mark key="." line="192" column="19" />
+        <mark key="^" line="184" column="8" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/webapp/frontend/vc/merchandiseBind/index.html" timestamp="1501660596817">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="67" column="13" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/resources/application.yml" timestamp="1566289169845">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="32" column="12" />
+        <mark key="^" line="32" column="12" />
+        <mark key="." line="32" column="12" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/JwtUserDetailsServiceImpl.java" timestamp="1566286569502" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/Glass3dMapper.xml" timestamp="1498726710249">
+        <mark key="[" line="79" column="10" />
+        <mark key="]" line="79" column="10" />
+        <mark key="." line="79" column="10" />
+        <mark key="^" line="79" column="10" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/modelBind/controller/ModelBindController.java" timestamp="1528798731882">
+        <mark key="[" line="78" column="106" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/RoleServiceImpl.java" timestamp="1566286553753" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merchBind/repository/BindInfoRepository.java" timestamp="1535079262107">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="52" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/codegen/service/MerchandiseBindServiceTest.java" timestamp="1500796342337">
+        <mark key="[" line="92" column="10" />
+        <mark key="]" line="81" column="10" />
+        <mark key="^" line="81" column="10" />
+        <mark key="." line="81" column="10" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" timestamp="1566287084324">
+        <mark key="'" line="65" column="77" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/util/AesEncryptUtil.java" timestamp="1566287561708" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/LiveMerchandiseMapper.xml" timestamp="1500549333508">
+        <mark key="[" line="134" column="18" />
+        <mark key="]" line="134" column="18" />
+        <mark key="^" line="134" column="18" />
+        <mark key="." line="134" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/properties/development/application-development.properties" timestamp="1566281744587" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/glass3d/service/impl/Glass3dServiceImpl.java" timestamp="1500549696402">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="77" column="3" />
@@ -102,12 +150,6 @@
         <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="68" />
-      </file>
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/BindInfoMapper.xml" timestamp="1513065300855">
-        <mark key="[" line="86" column="18" />
-        <mark key="]" line="86" column="18" />
-        <mark key="." line="86" column="18" />
-        <mark key="^" line="86" column="18" />
       </file>
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merchModel/repository/ModelDataRepository.java" timestamp="1527573151491">
         <mark key="[" line="25" column="24" />
@@ -131,36 +173,11 @@
         <mark key="'" line="84" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class" timestamp="1566279605964" />
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/merchBind/service/MerchBindServiceTest.java" timestamp="1513071552671">
-        <mark key="[" line="81" column="8" />
-        <mark key="]" line="53" column="21" />
-        <mark key="." line="53" column="21" />
-        <mark key="^" line="53" column="21" />
-      </file>
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merch3d/service/impl/ModelSyncServiceImpl.java" timestamp="1526974302491">
-        <mark key="[" line="84" column="8" />
-        <mark key="]" line="84" column="9" />
-        <mark key="^" line="84" column="9" />
-        <mark key="." line="84" column="9" />
-      </file>
-      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/controller/AuthController.java" timestamp="1566287098247" />
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/codegen/service/MerchandiseMaterialServiceTest.java" timestamp="1535088061140">
-        <mark key="[" line="192" column="18" />
-        <mark key="]" line="192" column="19" />
-        <mark key="." line="192" column="19" />
-        <mark key="^" line="184" column="8" />
-      </file>
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/MerchandiseMaterialMapper.xml" timestamp="1535079229460">
         <mark key="[" line="266" column="17" />
         <mark key="]" line="266" column="27" />
         <mark key="." line="255" column="35" />
         <mark key="^" line="255" column="35" />
-      </file>
-      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/webapp/frontend/vc/merchandiseBind/index.html" timestamp="1501660596817">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="67" column="13" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merchModel/service/impl/MerchModelServiceImpl.java" timestamp="1528798786662">
         <mark key="[" line="220" column="98" />
@@ -168,27 +185,11 @@
         <mark key="^" line="133" column="37" />
         <mark key="." line="133" column="37" />
       </file>
-      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/resources/application.yml" timestamp="1566289169845">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="32" column="12" />
-        <mark key="^" line="32" column="12" />
-        <mark key="." line="32" column="12" />
-      </file>
-      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/JwtUserDetailsServiceImpl.java" timestamp="1566286569502" />
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/Glass3dMapper.xml" timestamp="1498726710249">
-        <mark key="[" line="79" column="10" />
-        <mark key="]" line="79" column="10" />
-        <mark key="." line="79" column="10" />
-        <mark key="^" line="79" column="10" />
-      </file>
       <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/webapp/frontend/js/controller/glass3d/glass3dList.js" timestamp="1499658114635">
         <mark key="[" line="158" column="0" />
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
         <mark key="^" line="54" column="24" />
-      </file>
-      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/modelBind/controller/ModelBindController.java" timestamp="1528798731882">
-        <mark key="[" line="78" column="106" />
       </file>
     </filemarks>
     <jumps>
