@@ -344,7 +344,7 @@ merchandiseMaterialModel</text>
         <text encoding="base64">ICAgICAgICAgICAgICAgICN7bWQuY3IK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -387,10 +387,10 @@ merchandiseMaterialModel</text>
         <entry>action CloseContent</entry>
         <entry>action SearchEverywhere</entry>
         <entry>.,+20s/md/md2/g</entry>
-        <entry>action Find</entry>
         <entry>action Forward</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
