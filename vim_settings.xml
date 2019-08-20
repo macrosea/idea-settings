@@ -1,6 +1,373 @@
 <application>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service-api/src/main/java/com/vip/arplatform/codegen/idl/MerchandiseMaterialIDL.java" timestamp="1566289859829" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/vo/uploadAsycResp.java" timestamp="1498805303955">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/webapp/frontend/js/services/liveMerchandiseApi.js" timestamp="1500436220458">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/spring-security-oauth/oauth-resource-server-1/src/main/resources/persistence.properties" timestamp="1535707434682">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/webapp/frontend/html/glass3d/glass3dPDCList.html" timestamp="1499660047247">
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="42" column="41" />
+        <mark key="." line="42" column="41" />
+        <mark key="^" line="42" column="41" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/vo/MemberOfZip.java" timestamp="1498816047771">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/webapp/frontend/html/glass3d/glass3dList.html" timestamp="1499660126492">
+        <mark key="[" line="95" column="24" />
+        <mark key="]" line="103" column="33" />
+        <mark key="." line="103" column="33" />
+        <mark key="^" line="103" column="33" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/mapper/UserMapper.java" timestamp="1566284945010">
+        <mark key="'" line="16" column="22" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/spring-security-oauth/oauth-authorization-server/src/main/resources/persistence.properties" timestamp="1535706331950">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/codegen/repository/MerchandiseMaterialRepository.java" timestamp="1535079322902">
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/merch3d/service/ModelSyncServiceTest.java" timestamp="1526974116652">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="47" column="32" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/BindInfoMapper.xml" timestamp="1513065300855">
+        <mark key="[" line="86" column="18" />
+        <mark key="]" line="86" column="18" />
+        <mark key="." line="86" column="18" />
+        <mark key="^" line="86" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/merchBind/service/MerchBindServiceTest.java" timestamp="1513071552671">
+        <mark key="[" line="81" column="8" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="21" />
+        <mark key="^" line="53" column="21" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merch3d/service/impl/ModelSyncServiceImpl.java" timestamp="1526974302491">
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="84" column="9" />
+        <mark key="^" line="84" column="9" />
+        <mark key="." line="84" column="9" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/controller/AuthController.java" timestamp="1566287098247" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/codegen/service/MerchandiseMaterialServiceTest.java" timestamp="1535088061140">
+        <mark key="[" line="192" column="18" />
+        <mark key="]" line="192" column="19" />
+        <mark key="." line="192" column="19" />
+        <mark key="^" line="184" column="8" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/webapp/frontend/vc/merchandiseBind/index.html" timestamp="1501660596817">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="67" column="13" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/resources/application.yml" timestamp="1566289169845">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="32" column="12" />
+        <mark key="^" line="32" column="12" />
+        <mark key="." line="32" column="12" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/JwtUserDetailsServiceImpl.java" timestamp="1566286569502" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/Glass3dMapper.xml" timestamp="1498726710249">
+        <mark key="[" line="79" column="10" />
+        <mark key="]" line="79" column="10" />
+        <mark key="." line="79" column="10" />
+        <mark key="^" line="79" column="10" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/modelBind/controller/ModelBindController.java" timestamp="1528798731882">
+        <mark key="[" line="78" column="106" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/RoleServiceImpl.java" timestamp="1566286553753" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merchBind/repository/BindInfoRepository.java" timestamp="1535079262107">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="52" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/codegen/service/MerchandiseBindServiceTest.java" timestamp="1500796342337">
+        <mark key="[" line="92" column="10" />
+        <mark key="]" line="81" column="10" />
+        <mark key="^" line="81" column="10" />
+        <mark key="." line="81" column="10" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" timestamp="1566287084324">
+        <mark key="'" line="65" column="77" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/util/AesEncryptUtil.java" timestamp="1566287561708" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/LiveMerchandiseMapper.xml" timestamp="1500549333508">
+        <mark key="[" line="134" column="18" />
+        <mark key="]" line="134" column="18" />
+        <mark key="^" line="134" column="18" />
+        <mark key="." line="134" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/properties/development/application-development.properties" timestamp="1566281744587" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/glass3d/service/impl/Glass3dServiceImpl.java" timestamp="1500549696402">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="77" column="3" />
+        <mark key="^" line="77" column="3" />
+        <mark key="." line="77" column="3" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/MerchandiseBindMapper.xml" timestamp="1500609567819">
+        <mark key="[" line="121" column="16" />
+        <mark key="]" line="53" column="7" />
+        <mark key="." line="53" column="7" />
+        <mark key="^" line="53" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535088280677">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/resources/sql/schema_model_data.sql" timestamp="1528799542835">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="18" column="68" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merchModel/repository/ModelDataRepository.java" timestamp="1527573151491">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/ModelSyncDataMapper.xml" timestamp="1526887324750">
+        <mark key="[" line="101" column="14" />
+        <mark key="]" line="101" column="14" />
+        <mark key="^" line="101" column="14" />
+        <mark key="." line="101" column="14" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service-api/src/main/java/com/vip/arplatform/idl/merchModel/MerchModelIDL.java" timestamp="1527573723344">
+        <mark key="[" line="133" column="62" />
+        <mark key="]" line="127" column="26" />
+        <mark key="^" line="127" column="26" />
+        <mark key="." line="127" column="26" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/UserServiceImpl.java" timestamp="1566287037109">
+        <mark key="'" line="84" column="30" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class" timestamp="1566279605964" />
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/MerchandiseMaterialMapper.xml" timestamp="1535079229460">
+        <mark key="[" line="266" column="17" />
+        <mark key="]" line="266" column="27" />
+        <mark key="." line="255" column="35" />
+        <mark key="^" line="255" column="35" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merchModel/service/impl/MerchModelServiceImpl.java" timestamp="1528798786662">
+        <mark key="[" line="220" column="98" />
+        <mark key="]" line="133" column="37" />
+        <mark key="^" line="133" column="37" />
+        <mark key="." line="133" column="37" />
+      </file>
+      <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/webapp/frontend/js/controller/glass3d/glass3dList.js" timestamp="1499658114635">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+        <mark key="^" line="54" column="24" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="199" column="19" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="511" column="28" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="328" column="30" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="365" column="54" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="141" column="34" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="151" column="28" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="154" column="30" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="334" column="31" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="489" column="31" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="181" column="68" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="302" column="31" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="332" column="12" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="361" column="12" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="368" column="31" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="401" column="13" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="402" column="35" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="486" column="26" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="106" column="49" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="116" column="0" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="648" column="0" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="301" column="51" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="688" column="4" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="282" column="0" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="232" column="0" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="329" column="0" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="440" column="24" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="679" column="12" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="230" column="24" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="277" column="25" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="240" column="52" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="343" column="106" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="344" column="21" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="238" column="52" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="290" column="63" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="406" column="69" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="498" column="56" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/controller/Glass3DController.java" />
+      <jump line="72" column="34" filename="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/uploadGeneralize/service/impl/UploadServiceImpl.java" />
+      <jump line="13" column="9" filename="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/uploadGeneralize/repository/UploadStatusRepository.java" />
+      <jump line="79" column="16" filename="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/uploadGeneralize/service/impl/UploadServiceImpl.java" />
+      <jump line="83" column="58" filename="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/uploadGeneralize/service/impl/UploadServiceImpl.java" />
+      <jump line="86" column="12" filename="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/uploadGeneralize/service/impl/UploadServiceImpl.java" />
+      <jump line="30" column="78" filename="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/uploadGeneralize/service/impl/UploadServiceImpl.java" />
+      <jump line="33" column="12" filename="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/uploadGeneralize/service/impl/UploadServiceImpl.java" />
+      <jump line="56" column="37" filename="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/uploadGeneralize/service/impl/UploadServiceImpl.java" />
+      <jump line="120" column="23" filename="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/codegen/service/Glass3dServiceTest.java" />
+      <jump line="301" column="18" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="85" column="12" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="113" column="16" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="135" column="16" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="148" column="12" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="159" column="18" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="157" column="30" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="146" column="30" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="131" column="34" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="125" column="36" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="112" column="34" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="199" column="30" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="33" column="33" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/webapp/frontend/js/controller/glass3d/glass3dList.js" />
+      <jump line="94" column="34" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="242" column="44" filename="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/UploadGenralize/FileHandlerService.java" />
+      <jump line="141" column="24" filename="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/MerchModelMapper.xml" />
+      <jump line="41" column="31" filename="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" />
+      <jump line="65" column="77" filename="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" />
+      <jump line="92" column="18" filename="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/UserServiceImpl.java" />
+      <jump line="84" column="30" filename="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/UserServiceImpl.java" />
+      <jump line="16" column="22" filename="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/mapper/UserMapper.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="8">
+        <text>#
+#
+#
+#</text>
+      </register>
+      <register name="-" type="4">
+        <text>tutorialmy5ql</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxlbmNvZGVyXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhLmFkZChtMik7Cg==</text>
+      </register>
+      <register name="1" type="8">
+        <text>#
+#
+#
+#</text>
+      </register>
+      <register name="2" type="8">
+        <text>#
+#
+#
+#</text>
+      </register>
+      <register name="3" type="8">
+        <text>merchandiseMaterialModel
+merchandiseMaterialModel
+merchandiseMaterialModel
+merchandiseMaterialModel
+merchandiseMaterialModel
+merchandiseMaterialModel</text>
+      </register>
+      <register name="4" type="8">
+        <text>merchandiseMaterialModel</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAJaW50IGluc2VydEJhdGNoKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICN7bWQudXBkYXRlVGltZSwgamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYHVwZGF0ZV90aW1lZGRgLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICN7bWQuY3IK</text>
+      </register>
+      <register name=":" type="4">
+        <text>action Find</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxlbmNvZGVyXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxlbmNvZGVyXD4=</last-pattern>
+      <last-replace>md2</last-replace>
+      <last-substitute>md</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxkZWxldGVcPg==</entry>
+        <entry encoding="base64">XDx2ZW5kb3JfXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVaaXBcPg==</entry>
+        <entry>uploadA</entry>
+        <entry encoding="base64">XDxoYW5kbGVaaXBBc3luY1w+</entry>
+        <entry encoding="base64">XDxjaGVja1ppcE1lbWJlclw+</entry>
+        <entry encoding="base64">XDxDcmVhdGVSZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxjb21wdXRlQW5kU2F2ZVRvUzNcPg==</entry>
+        <entry encoding="base64">XDxzYXZlVXBsb2FkZWRGaWxlc1w+</entry>
+        <entry encoding="base64">XDxoYW5kbGVTaW5nbGVJbWFnZVw+</entry>
+        <entry encoding="base64">XDxpbnRcPg==</entry>
+        <entry encoding="base64">XDxxdWVyeUZyb21FUVNcPg==</entry>
+        <entry>throw</entry>
+        <entry>md</entry>
+        <entry>report</entry>
+        <entry>setProgress</entry>
+        <entry encoding="base64">XDx1c2VyRGV0YWlsc1NlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</entry>
+        <entry encoding="base64">XDxlbmNvZGVyXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wqa</entry>
+        <entry>76</entry>
+        <entry>100</entry>
+        <entry>20</entry>
+        <entry>action Back</entry>
+        <entry>action ReopenClosedTab</entry>
+        <entry>action CloseContent</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>.,+20s/md/md2/g</entry>
+        <entry>action Forward</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+        <entry>action Find</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
@@ -21,10 +388,5 @@
     <editor>
       <key-repeat enabled="true" />
     </editor>
-    <notifications>
-      <idea-join enabled="false" />
-      <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
-    </notifications>
   </component>
 </application>
