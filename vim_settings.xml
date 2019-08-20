@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merchModel/utils/Jd3dObjectMapper.java" timestamp="1527574397438">
@@ -54,6 +54,9 @@
         <mark key="." line="103" column="33" />
         <mark key="^" line="103" column="33" />
       </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/mapper/UserMapper.java" timestamp="1566284945010">
+        <mark key="'" line="16" column="22" />
+      </file>
       <file name="$USER_HOME$/ws/vipshop/git/spring-security-oauth/oauth-authorization-server/src/main/resources/persistence.properties" timestamp="1535706331950">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="19" />
@@ -65,7 +68,7 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" timestamp="1566279703287">
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" timestamp="1566285070428">
         <mark key="'" line="65" column="77" />
       </file>
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/LiveMerchandiseMapper.xml" timestamp="1500549333508">
@@ -136,6 +139,9 @@
         <mark key="]" line="127" column="26" />
         <mark key="^" line="127" column="26" />
         <mark key="." line="127" column="26" />
+      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/UserServiceImpl.java" timestamp="1566284885523">
+        <mark key="'" line="84" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class" timestamp="1566279605964" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/merchBind/service/MerchBindServiceTest.java" timestamp="1513071552671">
@@ -261,6 +267,9 @@
       <jump line="141" column="24" filename="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/MerchModelMapper.xml" />
       <jump line="41" column="31" filename="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" />
       <jump line="65" column="77" filename="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" />
+      <jump line="92" column="18" filename="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/UserServiceImpl.java" />
+      <jump line="84" column="30" filename="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/UserServiceImpl.java" />
+      <jump line="16" column="22" filename="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/mapper/UserMapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -273,7 +282,7 @@
         <text>tutorialmy5ql</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</text>
+        <text encoding="base64">XDxlbmNvZGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhLmFkZChtMik7Cg==</text>
@@ -321,12 +330,12 @@ merchandiseMaterialModel</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</last-search>
+      <last-search encoding="base64">XDxlbmNvZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxlbmNvZGVyXD4=</last-pattern>
       <last-replace>md2</last-replace>
       <last-substitute>md</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -349,6 +358,7 @@ merchandiseMaterialModel</text>
         <entry>setProgress</entry>
         <entry encoding="base64">XDx1c2VyRGV0YWlsc1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</entry>
+        <entry encoding="base64">XDxlbmNvZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
