@@ -3,11 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/merchModel/utils/Jd3dObjectMapper.java" timestamp="1527574397438">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/RoleServiceImpl.java" timestamp="1566286553753" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/vo/uploadAsycResp.java" timestamp="1498805303955">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="9" column="3" />
@@ -63,14 +59,10 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/MerchInfoMapper.xml" timestamp="1527561441443">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" timestamp="1566285070428">
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" timestamp="1566287084324">
         <mark key="'" line="65" column="77" />
       </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/util/AesEncryptUtil.java" timestamp="1566287561708" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/LiveMerchandiseMapper.xml" timestamp="1500549333508">
         <mark key="[" line="134" column="18" />
         <mark key="]" line="134" column="18" />
@@ -123,11 +115,6 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/java/com/vip/arplatform/face/service/impl/FaceServiceImpl.java" timestamp="1527574980758">
-        <mark key="[" line="251" column="3" />
-        <mark key="]" line="251" column="3" />
-        <mark key="." line="251" column="3" />
-      </file>
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/ModelSyncDataMapper.xml" timestamp="1526887324750">
         <mark key="[" line="101" column="14" />
         <mark key="]" line="101" column="14" />
@@ -140,7 +127,7 @@
         <mark key="^" line="127" column="26" />
         <mark key="." line="127" column="26" />
       </file>
-      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/UserServiceImpl.java" timestamp="1566284885523">
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/UserServiceImpl.java" timestamp="1566287037109">
         <mark key="'" line="84" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class" timestamp="1566279605964" />
@@ -156,6 +143,7 @@
         <mark key="^" line="84" column="9" />
         <mark key="." line="84" column="9" />
       </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/controller/AuthController.java" timestamp="1566287098247" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/codegen/service/MerchandiseMaterialServiceTest.java" timestamp="1535088061140">
         <mark key="[" line="192" column="18" />
         <mark key="]" line="192" column="19" />
@@ -186,6 +174,7 @@
         <mark key="^" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
+      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/service/impl/JwtUserDetailsServiceImpl.java" timestamp="1566286569502" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/Glass3dMapper.xml" timestamp="1498726710249">
         <mark key="[" line="79" column="10" />
         <mark key="]" line="79" column="10" />
