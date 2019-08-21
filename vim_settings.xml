@@ -94,7 +94,6 @@
         <mark key="." line="53" column="7" />
         <mark key="^" line="53" column="7" />
       </file>
-      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtTokenUtil.java" timestamp="1566359285154" />
       <file name="/Dummy.txt" timestamp="1535088280677">
         <mark key="[" line="0" column="0" />
       </file>
@@ -314,7 +313,7 @@ merchandiseMaterialModel</text>
         <text encoding="base64">ICAgICAgICAgICAgICAgICN7bWQuY3IK</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -324,7 +323,7 @@ merchandiseMaterialModel</text>
       <last-replace>md2</last-replace>
       <last-substitute>md</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -356,13 +355,15 @@ merchandiseMaterialModel</text>
         <entry>20</entry>
         <entry>action Back</entry>
         <entry>action ReopenClosedTab</entry>
-        <entry>action CloseContent</entry>
         <entry>action SearchEverywhere</entry>
         <entry>.,+20s/md/md2/g</entry>
         <entry>action Forward</entry>
         <entry>wq</entry>
         <entry>w</entry>
         <entry>action Find</entry>
+        <entry>action CloseContent</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
