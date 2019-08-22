@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/vo/uploadAsycResp.java" timestamp="1498805303955">
@@ -116,6 +116,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/orjan/git/yuchigong/src/main/java/pvt/web/security/security/FingerPrintAuthenticationProvider.java" timestamp="1566446560721" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/ModelSyncDataMapper.xml" timestamp="1526887324750">
         <mark key="[" line="101" column="14" />
         <mark key="]" line="101" column="14" />
@@ -149,6 +150,7 @@
         <mark key="." line="192" column="19" />
         <mark key="^" line="184" column="8" />
       </file>
+      <file name="$USER_HOME$/ws/orjan/git/yuchigong/src/main/java/pvt/web/security/security/FingerPrintFilter.java" timestamp="1566446444296" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/MerchandiseMaterialMapper.xml" timestamp="1535079229460">
         <mark key="[" line="266" column="17" />
         <mark key="]" line="266" column="27" />
