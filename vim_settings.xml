@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ws/vipshop/git/ar-admin/ar-admin-webapp/src/main/java/com/vip/arplatform/web/glass3d/vo/uploadAsycResp.java" timestamp="1498805303955">
@@ -60,7 +60,6 @@
       <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/jwt/JwtAuthenticationTokenFilter.java" timestamp="1566287084324">
         <mark key="'" line="65" column="77" />
       </file>
-      <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/java/com/example/security/util/AesEncryptUtil.java" timestamp="1566440987945" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/LiveMerchandiseMapper.xml" timestamp="1500549333508">
         <mark key="[" line="134" column="18" />
         <mark key="]" line="134" column="18" />
@@ -112,7 +111,6 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/orjan/git/yuchigong/src/main/java/pvt/web/security/security/FingerPrintAuthenticationProvider.java" timestamp="1566446560721" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/ModelSyncDataMapper.xml" timestamp="1526887324750">
         <mark key="[" line="101" column="14" />
         <mark key="]" line="101" column="14" />
@@ -140,14 +138,12 @@
         <mark key="^" line="84" column="9" />
         <mark key="." line="84" column="9" />
       </file>
-      <file name="$USER_HOME$/ws/orjan/git/pig/pig-common/pig-common-core/src/main/java/com/pig4cloud/pig/common/core/util/ClassUtils.java" timestamp="1566807055586" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/test/java/com/vip/arplatform/codegen/service/MerchandiseMaterialServiceTest.java" timestamp="1535088061140">
         <mark key="[" line="192" column="18" />
         <mark key="]" line="192" column="19" />
         <mark key="." line="192" column="19" />
         <mark key="^" line="184" column="8" />
       </file>
-      <file name="$USER_HOME$/ws/orjan/git/yuchigong/src/main/java/pvt/web/security/security/FingerPrintFilter.java" timestamp="1566446444296" />
       <file name="$USER_HOME$/ws/vipshop/git/ar-ospservice/ar-ospservice-service/src/main/resources/mapper/MerchandiseMaterialMapper.xml" timestamp="1535079229460">
         <mark key="[" line="266" column="17" />
         <mark key="]" line="266" column="27" />
@@ -166,7 +162,6 @@
         <mark key="^" line="133" column="37" />
         <mark key="." line="133" column="37" />
       </file>
-      <file name="$USER_HOME$/ws/orjan/git/pig/pig-common/pig-common-security/src/main/java/com/pig4cloud/pig/common/security/annotation/EnablePigFeignClients.java" timestamp="1566806547029" />
       <file name="$USER_HOME$/ws/orjan/git/springSecurity-jwt-vue-temple/security/src/main/resources/application.yml" timestamp="1566289169845">
         <mark key="[" line="4" column="48" />
         <mark key="]" line="32" column="12" />
