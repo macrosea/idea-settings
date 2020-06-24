@@ -1,5 +1,6 @@
 <application>
   <component name="EasyCodeSetting">
+    <option name="currTemplateGroupName" value="MybatisPlus" />
     <option name="currTypeMapperGroupName" value="myTypeMapper" />
     <option name="typeMapperGroupMap">
       <map>
